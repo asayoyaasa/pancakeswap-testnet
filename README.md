@@ -50,7 +50,7 @@ sol-merger pancake-swap-periphery/contracts/PancakeRouter.sol ./build
 
 #### Deploy WBNB
 
-+ New File: `WBNB.sol` => Copy source from https://gist.github.com/nhancv/b0b35f16472e4998d0fd17b7a1e4f707
++ New File: `WBNB.sol` => Copy source from https://gist.github.com/asayoyaasa/2c199f5c672dffe9984f673c159fdeaa
 + Compiler tab => Select compiler: `v0.8.3+commit.8d00100c`
 + Deploy tab => Select `WBNB` -> Deploy
 
